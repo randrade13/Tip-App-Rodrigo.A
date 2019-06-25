@@ -29,3 +29,4 @@ The following **additional** features are implemented:
 - [x] Modified app design/look
 
 ## Notes
+
