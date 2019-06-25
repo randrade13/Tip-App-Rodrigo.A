@@ -4,7 +4,11 @@
 
 Submitted by: Rodrigo Andrade
 
-Time spent: **X** hours spent in total
+Time spent: **4? (Classtime)** hours spent in total
+
+## Video Walkthrough
+
+<img src='http://g.recordit.co/XFfmZ1yKzt.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## User Stories
 
@@ -22,16 +26,6 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
-
-## Video Walkthrough
-
-Here's a walkthrough of implemented user stories:
-
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+- [x] Modified app design/look
 
 ## Notes
-
-Describe any challenges encountered while building the app.
